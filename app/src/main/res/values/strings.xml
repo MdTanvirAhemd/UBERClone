@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UBERClone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">rA11wLbFxxtyStGIb694U3TWUcbd2NjKA62ijYOg</string>
+    <string name="back4app_client_key">5USKWJTC5ZEFJJbU31H3laOCCKy8GJkpA87fFS1U</string>
+    <string name="title_activity_passenger">PassengerActivity</string>
+    <string name="title_activity_view_locations_map">ViewLocationsMapActivity</string>
+
+</resources>
