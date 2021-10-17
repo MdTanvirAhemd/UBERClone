@@ -34,7 +34,7 @@
         android:id="@+id/btnBeepBeep"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Beep Beep!"
+        android:text="Update About Uber"
         android:textColor="#FFFFFF"
         android:textSize="20sp"
         android:textStyle="bold"/>

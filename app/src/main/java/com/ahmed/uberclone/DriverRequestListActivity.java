@@ -132,7 +132,6 @@ public class DriverRequestListActivity extends AppCompatActivity implements View
 
             } else {
 
-                // locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locationListener);
 
                 Location currentDriverLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
                 updateRequestsListView(currentDriverLocation);
